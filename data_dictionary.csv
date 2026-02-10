@@ -1,0 +1,11 @@
+Column Name,Data Type,Description,Business Use
+Customer_ID,Integer,Unique customer identifier,Customer tracking
+Name,String,Customer full name,Identification
+Gender,String,Gender of customer,Demographic analysis
+Date_of_Birth,Date,Customer date of birth,Age calculation
+Email,String,Customer email address,Communication
+City,String,Customer city,Regional analysis
+Signup_Date,Date,Account signup date,Customer lifecycle
+Total_Purchase,Float,Total purchase amount,Revenue analysis
+Customer_Age,Integer,Calculated from DOB,Customer segmentation
+Customer_Type,String,Low Medium High value category,Business strategy
